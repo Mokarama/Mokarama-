@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="YOUR_LOGO_URL" alt="Logo" width="150"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Mokarama Akter Shanta</h1>
 <h3 align="center">Frontend Developer | Problem Solver | Lifelong Learner</h3>
